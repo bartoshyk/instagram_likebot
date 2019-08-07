@@ -1,0 +1,20 @@
+{
+  "name": "instagram_likebot",
+  "version": "1.0.0",
+  "description": "Bot automatically likes photos in the instagram.",
+  "main": "bot.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartoshyk/instagram_likebot.git"
+  },
+  "author": "Nadiia Bartoshyk",
+  "dependencies": {
+    "gmail-send": "^1.2.14",
+    "log4js": "^1.1.0",
+    "nodemailer": "^6.2.1",
+    "promise": "^8.0.1",
+    "selenium-webdriver": "^2.48.2",
+    "sendmail": "^1.4.1"
+  },
+  "devDependencies": {}
+}
