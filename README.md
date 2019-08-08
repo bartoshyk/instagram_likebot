@@ -27,9 +27,9 @@ ___________________________
 - Visual Studio Code;
 - Mozilla Firefox 46.0.
 
-Текст. инструкция https://docs.google.com/document/d/1hxgT95AyNOKwL23TAlGtsrtQ_TgIrshm3O4fgAo4tVE/edit
+Текст. инструкция https://docs.google.com/document/d/1XWfSDmM52ruVIn_OvcjaRmjr2mnY6b0X6WFHR8Pwuhc/edit
 Видеоинструкция https://www.youtube.com/watch?v=KYH7pzWaJ0M&t=13s
 
 2. Запускаем бота.
-Текст. инструкция 
+Текст. инструкция https://docs.google.com/document/d/1um5XVDXjZ1kA5YJRni0_FkpTusH-Jk7hbsKtJam3DIw/edit
 Видеоинструкция 
