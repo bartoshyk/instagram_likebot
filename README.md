@@ -22,7 +22,7 @@ ___________________________
 Программа для масслайкинга.
 Бот автоматически поставит лайки нужным аккаунтам.
 
-1. Перед запуском бота нужно установить 3 программы:
+1. ПЕРЕДИЗАПУСКОМ БОТА НУЖНО УСТАНОВИТЬ 3 ПРОГРАММЫ:
 -  Node.js;
 - Visual Studio Code;
 - Mozilla Firefox 46.0.
@@ -30,7 +30,8 @@ ___________________________
 Текст. инструкция https://docs.google.com/document/d/1XWfSDmM52ruVIn_OvcjaRmjr2mnY6b0X6WFHR8Pwuhc/edit
 Видеоинструкция https://www.youtube.com/watch?v=SKFwkTnwClo&feature=youtu.be
 
-2. Запускаем бота.
+
+2. ЗАПУСКАЕМ БОТА.
 
 Текст. инструкция https://docs.google.com/document/d/1um5XVDXjZ1kA5YJRni0_FkpTusH-Jk7hbsKtJam3DIw/edit                                     
 Видеоинструкция 
